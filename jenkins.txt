@@ -1,1 +1,1 @@
-I am jenkins, i am famous for creating pipelines.
+I am jenkins, i am a pipeline
